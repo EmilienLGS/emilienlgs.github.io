@@ -3,7 +3,10 @@
 Welcome, all changelog is here.
 
 ### Changelog - BETA
-clic here
+clic [here](http://emilienlgs.github.io/changelogbeta.md)
 
 ### Changelog - RP/PVP
-clic here
+clic [here](http://emilienlgs.github.io/changelog.md)
+
+
+Official web site is [here](http://villacraft.fr)
