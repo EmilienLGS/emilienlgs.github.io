@@ -6,7 +6,7 @@ Welcome, all changelog is here.
 clic [here](http://emilienlgs.github.io/changelogbeta.html)
 
 ### Changelog - RP/PVP
-clic [here](http://emilienlgs.github.io/changelog.md)
+clic [here](http://emilienlgs.github.io/changelog.html)
 
 <spoiler>
 tzeee
